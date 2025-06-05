@@ -1,0 +1,5 @@
+A `README.md` file explaining how to run your scripts
+
+Create a collection in Mongodb Compass then open the Mongo shell to insert the books.
+Use the database plp_bookstore to find the books according to the questions asked.
+Run the queries for each question to sort out the books as required.
